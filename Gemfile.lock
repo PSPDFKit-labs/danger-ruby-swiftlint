@@ -4,7 +4,7 @@ PATH
     danger-swiftlint (0.24.2)
       danger
       rake (> 10)
-      thor (~> 0.19)
+      thor (~> 1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -125,7 +125,7 @@ GEM
     shellany (0.0.1)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    thor (0.20.3)
+    thor (1.0.1)
     unicode-display_width (1.6.0)
 
 PLATFORMS
